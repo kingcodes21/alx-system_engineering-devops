@@ -1,1 +1,0 @@
-Devops readme contains text
