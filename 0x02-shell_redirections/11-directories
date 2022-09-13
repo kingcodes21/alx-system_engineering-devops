@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lR ./ |egrep -c '^d' 2
+ls -laR ./ |egrep -c '^d' 2
