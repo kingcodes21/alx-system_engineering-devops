@@ -1,2 +1,2 @@
 #!/bin/bash
-compgen -u | sort
+sort -d | find /etc/passwd /home/* -type -d | uniq | less
